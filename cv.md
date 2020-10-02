@@ -41,11 +41,22 @@ ISRT merit scholarship, ISRT, University of Dhaka
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
+- Tianzhou Ma* , Zhiguang Huo*, Anche Kuo*, Li Zhu, Fang Zhou, Xiangrui Zeng, Chien-Wei Lin, Silvia Liu, Lin Wang, Peng Liu, {\bf Tanbin Rahman}, Lun-Ching Chang, Sunghwan Kim, Jia Li, Yongseok Park, Chi Song and George C. Tseng. (2018). MetaOmics - Comprehensive analysis pipeline and web-based software suite for transcriptomic meta-analysis. \emph{Bioinformatics}. 2018 Oct 10 .
 
-`1994`
-Article Title, Journal Title
+- Brandon C. McKinney, Chien-Wei Lin, {\bf Tanbin Rahman}, Hyunjung Oh, David A. Lewis, George Tseng, Etienne Sibille(2018). DNA methylation in the human frontal cortex reveals a putative mechanism for age-by-disease interactions. \emph{Translational psychiatry}. 2019 Jan 29;9(1):39.
+
+- Yao Wang, Rong  Guo, Bo Chen, {\bf Tanbin Rahman}, Li Cai, Yizhi Li, Yan Dong, George C. Tseng, Jidong Fang, Marianne L. Seney and Yanhua H. Huang. Cocaine-Induced Neural Adaptations in the Lateral Hypothalamic Melanin-Concentrating Hormone Neurons and the Role in Regulating Rapid Eye Movement Sleep After Withdrawal. \emph{Molecular psichiatry} [Accepted].
+
+ 
+- Clinton Yam, Gaiane M. Rauch, {\bf Tanbin Rahman}, Meghan Karuturi, Elizabeth Ravenberg, Jason White, Alyson Clayborn, Pamela McCarthy, Sausan Abouharb, Bora Lim, Jennifer K. Litton, David L. Ramirez, Sadia Saleem, James Stec, W. Fraser Symmans, Lei Huo, Senthil Damodaran, Ryan Sun, Stacy L. Moulder. A phase II study of Mirvetuximab Soravtansine in triple-negative breast cancer.  \emph{Investigational new drugs} [Minor revision].
+
+-{\bf Tanbin Rahman},  Hsin-En Huang, Yujia Li, An-Shun Tai, Wen-Ping Hsieh and George C. Tseng. A sparse negative binomial classifier with covariate adjustment for RNA-seq data. \emph{Annals of applied statistics} [Under revision].
+
+- {\bf Tanbin Rahman}, Yujia Li, Tianzhou Ma and George C. Tseng. Sparse negative binomial model based clustering for RNA-seq count data. \emph{Biostatistics} [Under revision]. 
+
+
+- Tianzhou Ma, {\bf Tanbin Rahman}, Li Zhu, Xiangrui Zeng, Jingyi J. Li and George C. Tseng. Characterization and functional annotation of differential transcriptomic systems in animal model and cross-species evaluation. Ready to submit.
+
 
 ### Books
 
