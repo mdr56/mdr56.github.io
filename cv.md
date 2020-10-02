@@ -11,21 +11,30 @@ University of Texas MD Anderson Cancer Center
 __University of Pittsburgh__
 
 Ph.D. in Biostatistics
+
 Supervisor: Dr. George Tseng
 `Jan 2013 - Apr 2014`
 __University of Dhaka__
 
 M.S. in Applied Statistics 
+
 Supervisor: Dr. Syed Shahadat Hossain
 
 `Jan 2009 - Dec 2012`
 __University of Dhaka__
+
 B.S. in Applied Statistics
+
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2019`
+Delta Omega Best Dissertation Award, Department of Biostatistics, University of Pittsburgh 
 
+`2015-2019`
+Graduate scholarship, Department of Biostatistics, University of Pittsburgh
+
+`2010-2014`
+ISRT merit scholarship, ISRT, University of Dhaka
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
