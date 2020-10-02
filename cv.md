@@ -40,7 +40,7 @@ ISRT merit scholarship, ISRT, University of Dhaka
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+## Journals
 
 - Tianzhou Ma* , Zhiguang Huo*, Anche Kuo*, Li Zhu, Fang Zhou, Xiangrui Zeng, Chien-Wei Lin, Silvia Liu, Lin Wang, Peng Liu, **Tanbin Rahman**, Lun-Ching Chang, Sunghwan Kim, Jia Li, Yongseok Park, Chi Song and George C. Tseng. (2018). MetaOmics - Comprehensive analysis pipeline and web-based software suite for transcriptomic meta-analysis. *Bioinformatics*. 2018 Oct 10 .
 
