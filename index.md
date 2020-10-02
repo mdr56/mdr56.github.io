@@ -21,4 +21,6 @@ Hello, I am currently working as a Postdoctoral Fellow at the Department of Bios
 
 - **A sparse negative binomial classifier with covariate adjustment for RNA-seq data:** Developed a negative binomial model via generalized linear model framework with double regularization for gene and covariate sparsity to accommodate three key elements: adequate modeling of count data with overdispersion, gene selection and adjustment for covariate effects.
 
+- **A sparse negative binomial mixture model for clustering RNA-seq count data:** Developed a negative binomial mixture model with lass or fused lasso gene regulation to cluster samples (small n) with high-dimensional gene features (large p). 
+
 
