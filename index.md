@@ -29,3 +29,9 @@ Hello, I am currently working as a Postdoctoral Fellow at the Department of Bios
 
 - **Congurence analysis of Model Organisms (CAMO):** Worked with other members from the lab during my PhD to develop a statistical evaluation framework with functional characterizationfor for comparison of differential transcriptomic systems across model organisms or across species.
 
+### Collaborative Projects
+
+- Worked on a project aimed at investigating the interaction between prenatal exposure to environmental manganese exposure and gene variants on birth outcomes by performing genome-wide gene-environmental interaction study (GWEIS). As a part of the data analysis, I have carried out quality control, GWEIS, meta-analysis using METAL, imputation using michigan imputation server for the purpose of finemapping.
+
+
+
