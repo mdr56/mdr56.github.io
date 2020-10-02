@@ -7,14 +7,18 @@ layout: resume
 University of Texas MD Anderson Cancer Center
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`Aug 2015 - Aug 2019`
+__University of Pittsburgh__
+Ph.D. in Biostatistics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`Jan 2013 - Apr 2014`
+__University of Dhaka__
+M.S. in Applied Statistics 
 
+
+`Jan 2009 - Dec 2012`
+__University of Dhaka__
+B.S. in Applied Statistics
 ## Awards
 
 `2012`
