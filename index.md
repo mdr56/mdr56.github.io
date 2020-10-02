@@ -33,5 +33,17 @@ Hello, I am currently working as a Postdoctoral Fellow at the Department of Bios
 
 - Worked on a project aimed at investigating the interaction between prenatal exposure to environmental manganese exposure and gene variants on birth outcomes by performing genome-wide gene-environmental interaction study (GWEIS). As a part of the data analysis, I have carried out quality control, GWEIS, meta-analysis using METAL, imputation using michigan imputation server for the purpose of finemapping.
 
+- Worked on a project aimed at determining the impact of sequential biopsies in patients with triple-negative breast cancer receiving neoadjuvant systemic therapy. Here, I helped in the data analysis by performing exploratory analysis, summarizing the characteristics of the variables as well as performing survival analysis, competing risk analysis as well restricted mean survival time analysis.   
+
+- Applied Semi-competing risk model to progression of radiologic severity index associated with increased mortality in patients with acute leukemia who develop pneumonia after induction chemotherapy.
+
+- Worked on a project to understand how cocaine experience may alter rapid eye movement (REM) sleep regulatory machinery. In this project, I analyzed RNA-seq data for a saline vs cocaine study on rat samples. As part of the analysis, I carried out quality control using FastQC, alignment using Hisat2, preprocessing the output to obtain count data and finally carrying out differential expression (DE) analysis to identify the expressed genes. 
+
+- Applied pathway analysis using Ingenuity Pathway Analysis (IPA) software as well Gene ontology (GO) analysis to explore the mechanism of age-by-disease interactions using DNA methylation data. 
+
+- Worked on collaborative projects to investigate the trait, state and neuro-progressive pathologies using RNA-seq data from four MDD cohorts (at various stages of disease and remission) and a control group of sample size 90. Here, I carried out quality control, alignment, preprocessing and DE analysis. 
+
+- Analyzed NanoString data for collaborators for identifying candidtate genes for a Leiomyosarcoma study.
+
 
 
