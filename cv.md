@@ -42,7 +42,7 @@ ISRT merit scholarship, ISRT, University of Dhaka
 
 ## Journals
 
-- Tianzhou Ma* , Zhiguang Huo*, Anche Kuo*, Li Zhu, Fang Zhou, Xiangrui Zeng, Chien-Wei Lin, Silvia Liu, Lin Wang, Peng Liu, **Tanbin Rahman**, Lun-Ching Chang, Sunghwan Kim, Jia Li, Yongseok Park, Chi Song and George C. Tseng. (2018). MetaOmics - Comprehensive analysis pipeline and web-based software suite for transcriptomic meta-analysis. *Bioinformatics*. 2018 Oct 10 .
+- Tianzhou Ma^ , Zhiguang Huo^, Anche Kuo^, Li Zhu, Fang Zhou, Xiangrui Zeng, Chien-Wei Lin, Silvia Liu, Lin Wang, Peng Liu, **Tanbin Rahman**, Lun-Ching Chang, Sunghwan Kim, Jia Li, Yongseok Park, Chi Song and George C. Tseng. (2018). MetaOmics - Comprehensive analysis pipeline and web-based software suite for transcriptomic meta-analysis. *Bioinformatics*. 2018 Oct 10 .
 
 - Brandon C. McKinney, Chien-Wei Lin, **Tanbin Rahman**, Hyunjung Oh, David A. Lewis, George Tseng, Etienne Sibille(2018). DNA methylation in the human frontal cortex reveals a putative mechanism for age-by-disease interactions. *Translational psychiatry*. 2019 Jan 29;9(1):39.
 
