@@ -15,4 +15,4 @@ Hello, I am currently working as a Postdoctoral Fellow at the Department of Bios
 
 ## Research Projects
 
-# Meta-analytic framework using model-based clustering approach for identifying subtypes in multiple transcriptomic studies with covariate adjustment
+### Meta-analytic framework using model-based clustering approach in multiple transcriptomic studies with covariate adjustment
