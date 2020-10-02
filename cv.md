@@ -1,10 +1,10 @@
 ---
 layout: resume
 ---
-## Postdoctoral Fellow
+## Md Tanbin Rahman
 
-`Sep 2019 - `
-University of Texas MD Anderson Cancer Center
+Application and development of statistical and machine learning methods in high-dimenstional data. Bayesian hiearchical modeling. Analysis of multi-omics data. Variable selection in high-dimensional data. 
+
 ## Education
 
 `Aug 2015 - Aug 2019`
@@ -56,7 +56,7 @@ ISRT merit scholarship, ISRT, University of Dhaka
 - **Tanbin Rahman**, Yujia Li, Tianzhou Ma and George C. Tseng. Sparse negative binomial model based clustering for RNA-seq count data. *Biostatistics* [Under revision]. 
 
 
-- Tianzhou Ma, {\bf Tanbin Rahman}, Li Zhu, Xiangrui Zeng, Jingyi J. Li and George C. Tseng. Characterization and functional annotation of differential transcriptomic systems in animal model and cross-species evaluation. Ready to submit.
+- Tianzhou Ma, **Tanbin Rahman**, Li Zhu, Xiangrui Zeng, Jingyi J. Li and George C. Tseng. Characterization and functional annotation of differential transcriptomic systems in animal model and cross-species evaluation. Ready to submit.
 
 
 
@@ -68,22 +68,24 @@ ISRT merit scholarship, ISRT, University of Dhaka
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
+`Sep 2019 -`
+__Postdoctoral Fellow__, University of Texas MD Anderson Cancer Center 
 
-- Task
-- Task
+- Data analysis for collaborative projects in lifetime and genetic data 
+- Developing statistical methodology for leveraging annotation information in fine-mapping studies
+- Developing Meta-clustering algorithm for high-dimensional transcriptomics data with covariate adjustment 
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`Aug 2015 - Aug 2019`
+__Graduate Student Researcher__, University of Pittsburgh 
 
-- Task
-- Task
-
+- Application of statistical methods to genomics data in collaborative projects with researchers with diverse background
+- Developed model-based clustering algorithm with embedded variable selection for RNA-seq data
+- Developed classification model with application to RNA-seq data with variable selection and covariate adjustment
+- Worked on developing a statistical evaluation framework with functional characterization for comparison of differential transcriptomic systems across model organisms or across species
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2020 -->
 
 
