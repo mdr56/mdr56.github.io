@@ -23,4 +23,7 @@ Hello, I am currently working as a Postdoctoral Fellow at the Department of Bios
 
 - **A sparse negative binomial mixture model for clustering RNA-seq count data:** Developed a negative binomial mixture model with lass or fused lasso gene regulation to cluster samples (small n) with high-dimensional gene features (large p). 
 
+- **MetaOmics: software suite for comprehensive transcriptomic meta-analysis:** Worked with lab members during my PhD to develop a comprehensive analytical pipeline and browser-based software suite to meta-analyze multiple transcriptomic studies fro various biological purposes, including quality control, differential expression analysis, pathway enrichment analysis,  differential co-expression network analysis, prediction, clustering and dimension reducton. 
+
+- **Congurence analysis of Model Organisms (CAMO):** Worked with other members from the lab during my PhD to develop a statistical evaluation framework with functional characterizationfor for comparison of differential transcriptomic systems across model organisms or across species.
 
