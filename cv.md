@@ -9,12 +9,14 @@ University of Texas MD Anderson Cancer Center
 
 `Aug 2015 - Aug 2019`
 __University of Pittsburgh__
-Ph.D. in Biostatistics
 
+Ph.D. in Biostatistics
+Supervisor: Dr. George Tseng
 `Jan 2013 - Apr 2014`
 __University of Dhaka__
-M.S. in Applied Statistics 
 
+M.S. in Applied Statistics 
+Supervisor: Dr. Syed Shahadat Hossain
 
 `Jan 2009 - Dec 2012`
 __University of Dhaka__
