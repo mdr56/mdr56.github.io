@@ -15,4 +15,6 @@ Hello, I am currently working as a Postdoctoral Fellow at the Department of Bios
 
 ## Research Projects
 
-- **bf Meta-analytic framework using model-based clustering approach in multiple transcriptomic studies with covariate adjustment :**
+- **Meta-analytic framework using model-based clustering approach in multiple transcriptomic studies with covariate adjustment :** Unsupervised machine learning remains an important role identifying disease subtypes. The aim of this project is to extend the meta-analytic framework to sparse K-means to a meta Gaussian mixture model framework. This extension allows incorporation of information from clinical variables to control for extraneous source of variability as well consider the gene-gene dependence in an unified model.
+
+
