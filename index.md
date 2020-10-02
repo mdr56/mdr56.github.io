@@ -12,3 +12,7 @@ Hello, I am currently working as a Postdoctoral Fellow at the Department of Bios
 - Variable selection in high-dimensional data
 - Analysis of genomics data (genetical data, transcriptomics, proteomics, methylation data, etc.)
 - Exploring new area of research in clinical trials, spatial statistics, survival analysis, etc.
+
+## Research Projects
+
+# Meta-analytic framework using model-based clustering approach for identifying subtypes in multiple transcriptomic studies with covariate adjustment
