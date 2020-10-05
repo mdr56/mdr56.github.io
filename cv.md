@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-## Md Tanbin Rahman
+
 
 Application and development of statistical and machine learning methods in high-dimenstional data. Bayesian hiearchical modeling. Analysis of multi-omics data. Variable selection in high-dimensional data. 
 
