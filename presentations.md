@@ -1,7 +1,7 @@
 ---
-layout: presentation-post-index
-title: Research Projects
-
+layout: page
+excerpt: "About Me..."
+---
 ### Methodological Projects
 
 - **Meta-analytic framework using model-based clustering approach in multiple transcriptomic studies with covariate adjustment :** Unsupervised machine learning remains an important role identifying disease subtypes. The aim of this project is to extend the meta-analytic framework to sparse K-means to a meta Gaussian mixture model framework. This extension allows incorporation of information from clinical variables to control for extraneous source of variability as well consider the gene-gene dependence in an unified model.
@@ -31,4 +31,4 @@ title: Research Projects
 - Worked on collaborative projects to investigate the trait, state and neuro-progressive pathologies using RNA-seq data from four MDD cohorts (at various stages of disease and remission) and a control group of sample size 90. Here, I carried out quality control, alignment, preprocessing and DE analysis. 
 
 - Analyzed NanoString data for collaborators for identifying candidtate genes for a Leiomyosarcoma study.
----
+
