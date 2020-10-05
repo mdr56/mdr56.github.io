@@ -73,7 +73,7 @@ __Postdoctoral Fellow__, University of Texas MD Anderson Cancer Center
 
 - Data analysis for collaborative projects in lifetime and genetic data 
 - Developing statistical methodology for leveraging annotation information in fine-mapping studies
-- Developing Meta-clustering algorithm for high-dimensional transcriptomics data with covariate adjustment 
+- Developing meta-clustering algorithm for high-dimensional transcriptomics data with covariate adjustment 
 
 `Aug 2015 - Aug 2019`
 __Graduate Student Researcher__, University of Pittsburgh 
